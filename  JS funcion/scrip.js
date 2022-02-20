@@ -17,5 +17,4 @@ const a = prompt('Один  из последних просмотренных �
 
     console.log(personalMovieDB);
 
-    const newVariable = 'My test text';
-    console.log(newVariable);
+    
